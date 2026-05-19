@@ -1,0 +1,5 @@
+https://www.immobilienscout24.de/baufinanzierung/finanzierungsrechner-exklusiv/exposejson/159003067
+https://www.immobilienscout24.de/immobilienpreise/_next/data/u6hxZoA2JGOvuuwknTW0Z/berlin/berlin/lichtenberg/wohnungspreise.json?param=berlin&param=berlin&param=lichtenberg&param=wohnungspreise
+https://www.immobilienscout24.de/immobilienpreise/_next/data/u6hxZoA2JGOvuuwknTW0Z/berlin/berlin/mitte/wedding/wohnungspreise.json?param=berlin&param=berlin&param=mitte&param=wedding&param=wohnungspreise
+https://tiles.val.immobilienscout24.de/2026-Q1/price-ranges
+https://www.immobilienscout24.de/baufinanzierung/?postalCode=10247&exposeId=159003067&exposeTitle=Kapitalanleger+aufgepasst+%21+Sehr+sch%C3%B6ne+2+ZKBK+in+guter+Lage%21&exposeImageSource=https%3A%2F%2Fpictures.immobilienscout24.de%2Flistings%2Feb79a95a-a834-46b0-9355-1ce7be96275d-1901376060.jpg%2FORIG%2Fresize%2F118x118%253E%2Fextent%2F118x118%2Fformat%2Fjpg&exposeChecksum=5a5a763c6bfcbe363a28bf81bd447b69

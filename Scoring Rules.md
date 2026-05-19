@@ -36,8 +36,9 @@ Then calculate a weighted overall score.
 Use this weighting unless the user explicitly asks for a different method:
 
 - **Price attractiveness** = 20%
-- **Yield / cash flow** = 20%
-- **Building / WEG quality** = 20%
+- **Yield / cash flow** = 15%
+- **Tax / Benefits** = 10%
+- **Building / WEG quality** = 15%
 - **Legal / flexibility** = 15%
 - **Location / liquidity** = 15%
 - **Apartment quality** = 10%
@@ -55,8 +56,8 @@ Round the final overall score to **1 decimal place**.
 Use the final overall score to assign the decision:
 
 - **8.5 to 10.0** = **Strong buy**
-- **7.0 to 8.4** = **Worth deeper review**
-- **5.5 to 6.9** = **Only if negotiated**
+- **6.1 to 8.4** = **Worth deeper review**
+- **5.5 to 6.0** = **Only if negotiated**
 - **Below 5.5** = **Pass**
 
 ### Important override rule
