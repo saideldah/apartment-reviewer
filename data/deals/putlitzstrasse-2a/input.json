@@ -1,0 +1,22 @@
+{
+  "deal_id": "putlitzstrasse-2a-whg-21",
+  "street": "Putlitzstraße",
+  "house_number": "2a",
+  "postal_code": "10551",
+  "city": "Berlin",
+  "state": "Berlin",
+  "purchase_price": 294975,
+  "living_space_sqm": 65.55,
+  "cold_rent_monthly": 750,
+  "non_recoverable_costs_yearly": 750,
+  "renovation_budget": 25000,
+  "vacant": true,
+  "planned_rent_monthly": 1750,
+  "interest_rate": 0.04,
+  "repayment_rate": 0.015,
+  "equity": 55000,
+  "broker_fee_percent": 3.57,
+  "notary_land_register_percent": 2.0,
+  "property_transfer_tax_percent": 6.0,
+  "target_yield": 0.04
+}
